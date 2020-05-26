@@ -1,0 +1,54 @@
+body{
+    font-family: 'Balsamiq Sans', cursive;
+}
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.navbar-dark{
+    background-color:#512DA8;
+}
+.modal-header {
+    
+    color: floralwhite; }
+    .modal-header .close {
+      color: floralwhite; }
+  
+  .modal-body {
+    background: white; 
+    text-align: center;
+    height: 700px;}
+
+
+  
+ .form-control {
+        width:300x;
+        fill: none;
+        background-color: transparent;
+        border: none;
+        border-bottom: 1px solid gray;
+       
+        font-size: 18px;
+        margin-bottom: 16px;
+        align-items: center;
+    }
+
+    form{
+        display: inline-block;
+        width: 400px;
+    }
+
+.btn-default
+{
+background-color: #000A12;
+color:#FFF;
+border-color: #CFCFCF;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+background-color: #CFCFCF;
+color:#FFF;
+border-color: #CFCFCF;
+}
